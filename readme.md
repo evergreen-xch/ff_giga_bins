@@ -1,9 +1,9 @@
 Evergreen FastFarmer for Gigahorse
 =====
 
-A fork or FastFarmer supporting Gigahorse versions <= 3.0. </br>
-For Information on FastFarmer visit the Github at https://github.com/GalactechsLLC/dg_fast_farmer. </br>
-For Information on Gigahorse visit the Github at https://github.com/madMAx43v3r/chia-gigahorse.
+A fork of FastFarmer supporting Gigahorse versions <= 3.0. </br>
+For Information on FastFarmer visit the Github at https://github.com/GalactechsLLC/dg_fast_farmer </br>
+For Information on Gigahorse visit the Github at https://github.com/madMAx43v3r/chia-gigahorse
 
 Running
 --------
